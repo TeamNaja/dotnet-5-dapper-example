@@ -16,15 +16,21 @@ https://github.com/code-naja/docker-installation-example
 3. Clone Code ลงไปที่เครื่อง 
 
 4. ไปที่ Folder Code ที่ Clone ไป จากนั้นเปิด Terminal ขึ้น 
+![image](https://user-images.githubusercontent.com/71694878/131341693-0a7bd2be-f849-40e2-aef4-5706b02e937c.png)
+![image](https://user-images.githubusercontent.com/71694878/131341735-4cd8d4d9-4167-48c5-87cd-d0718de9bf0e.png)
+
 
 5. docker-compose up -d 
 docker-compose คือการเรียกไฟล์ docker-compose.yml ไฟล์ 
 ซึ่งในนั้นจะมีชุดคำสั่งสำหรับ run docker อยู่ 
 up คือ สั่งให้มันทำงาน
 -d คือ detach คือ ทำงานแบบ background ไม่ต้องให้ terminal เราไปผูกกับ docker นี้ 
+![image](https://user-images.githubusercontent.com/71694878/131341894-929cb2a9-bcb1-4e7a-988e-d9af6169f9e9.png)
+
 
 6. เปิด Project 
-
 7. กด Run 
-
 8. ดูคำอธิบายต่าง ๆ ใน code ว่าแต่ละอย่างคืออะไร
+9. ถ้าสงสัยหม่องใด๋ ให้ไปสร้าง issue แคปรูปมาถาม 
+10. เล่นเบิ่ง
+
